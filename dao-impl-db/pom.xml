@@ -11,10 +11,10 @@
 
 
 	<dependencies>
-		<dependency>
+		<!-- <dependency>
 			<groupId>ru.mail.ales2003.deals</groupId>
 			<artifactId>dao-api</artifactId>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>ru.mail.ales2003.deals</groupId>
 			<artifactId>datamodel</artifactId>
