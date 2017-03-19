@@ -11,7 +11,7 @@
 	<packaging>jar</packaging>
 
 	<dependencies>
-	<dependency>
+		<dependency>
 			<groupId>ru.mail.ales2003.deals</groupId>
 			<artifactId>dao-impl-db</artifactId>
 		</dependency>
